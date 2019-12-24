@@ -1,0 +1,22 @@
+{
+  "name": "rocketmqproxy",
+  "version": "1.0.0",
+  "description": "rocketmq proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wschacker/rockmqproxy.git"
+  },
+  "keywords": [
+    "rocketmqproxy"
+  ],
+  "author": "wschacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wschacker/rockmqproxy/issues"
+  },
+  "homepage": "https://github.com/wschacker/rockmqproxy#readme"
+}
